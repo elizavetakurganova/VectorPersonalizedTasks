@@ -1,0 +1,204 @@
+2026-04-29 23:32:10,629 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-29 23:32:10,856 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-29 23:33:00,043 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-29 23:33:00,245 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-29 23:33:01,857 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-29 23:33:01,860 - generator.task_generator - INFO - ✅ YandexGPT настроен, модель: yandexgpt
+2026-04-29 23:34:27,958 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-29 23:43:54,019 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-29 23:44:49,310 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:00:31,321 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:04:01,591 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 00:04:01,796 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:07:41,232 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 00:07:41,433 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:09:08,285 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:12:35,417 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=0.6666666666666666
+2026-04-30 00:12:35,434 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.74
+2026-04-30 00:14:01,622 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:18:54,366 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:18:57,464 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:22:15,431 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=1.0
+2026-04-30 00:22:15,449 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.72
+2026-04-30 00:23:18,982 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=0.6666666666666666
+2026-04-30 00:23:18,990 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.72
+2026-04-30 00:28:41,565 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=1.0
+2026-04-30 00:28:41,578 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.73
+2026-04-30 00:29:48,610 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 00:29:48,818 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:30:40,810 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=0.6666666666666666
+2026-04-30 00:30:40,821 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.70
+2026-04-30 00:31:20,842 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:37:55,542 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:40:50,011 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:40:59,944 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:41:15,965 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 00:41:16,187 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:45:36,426 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=1.0
+2026-04-30 00:45:36,441 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.71
+2026-04-30 00:51:27,626 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:51:51,502 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 00:52:49,055 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=0.6666666666666666
+2026-04-30 00:52:49,074 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.71
+2026-04-30 00:59:31,572 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=0.5
+2026-04-30 00:59:31,586 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.70
+2026-04-30 01:03:58,855 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 01:23:50,696 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 01:25:19,862 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 01:25:25,134 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=0.5
+2026-04-30 01:25:25,143 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: developing, score=0.70
+2026-04-30 01:29:05,977 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=1.0
+2026-04-30 01:29:05,984 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: proficient, score=0.71
+2026-04-30 01:30:32,531 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 01:31:14,600 - auth.auth_manager - INFO - Успешный вход пользователя: admin
+2026-04-30 01:31:34,208 - auth.auth_manager - WARNING - Попытка входа с несуществующим логином:  petrsidorov
+2026-04-30 01:31:47,684 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-04-30 01:31:47,808 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 01:32:05,328 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 01:41:13,130 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 01:41:13,261 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 01:41:21,239 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-04-30 01:41:21,365 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 14:28:56,559 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 14:28:56,776 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 14:29:53,218 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 14:39:42,668 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 14:39:43,131 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 14:40:19,810 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:04:27,584 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:09:04,887 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:12:11,013 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:12:26,867 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:12:56,050 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-04-30 15:12:56,319 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:13:21,897 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:17:52,551 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:18:39,232 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 15:18:39,520 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:19:02,686 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-04-30 15:19:02,979 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:23:44,283 - database.db_manager - INFO - Задание сохранено для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=, score=0.6666666666666666
+2026-04-30 15:23:44,302 - database.db_manager - INFO - Профиль обновлен для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=: proficient, score=0.82
+2026-04-30 15:42:30,988 - database.db_manager - INFO - Задание сохранено для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=, score=0.0
+2026-04-30 15:42:31,000 - database.db_manager - INFO - Профиль обновлен для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=: developing, score=0.65
+2026-04-30 15:45:04,948 - database.db_manager - INFO - Задание сохранено для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=, score=0.6666666666666666
+2026-04-30 15:45:04,969 - database.db_manager - INFO - Профиль обновлен для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=: developing, score=0.66
+2026-04-30 15:47:22,327 - database.db_manager - INFO - Задание сохранено для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=, score=1.0
+2026-04-30 15:47:22,340 - database.db_manager - INFO - Профиль обновлен для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=: proficient, score=0.70
+2026-04-30 15:47:39,093 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:48:22,499 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:48:34,201 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-04-30 15:48:34,433 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:48:57,723 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:49:16,158 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 15:52:11,606 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 15:53:00,841 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 15:54:08,458 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 15:54:51,086 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 16:01:49,386 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 16:02:01,848 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 16:02:24,510 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 16:26:33,441 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 16:42:48,019 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 16:43:42,324 - auth.auth_manager - INFO - Успешный вход пользователя: sergeysmirnov
+2026-04-30 16:46:57,120 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 16:48:09,284 - auth.auth_manager - INFO - Успешный вход пользователя: admin
+2026-04-30 16:55:32,061 - auth.auth_manager - INFO - Успешный вход пользователя: admin2
+2026-04-30 16:59:09,851 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 16:59:17,969 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:04:51,262 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:06:45,550 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:07:39,068 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:10:03,530 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:11:57,803 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:13:10,530 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:13:35,814 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:13:59,874 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:14:54,487 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:15:31,718 - auth.auth_manager - WARNING - Неверный пароль для пользователя: elenakozlova
+2026-04-30 17:15:38,951 - auth.auth_manager - INFO - Успешный вход пользователя: elenakozlova
+2026-04-30 17:15:39,308 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:15:47,608 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:16:35,683 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:21:02,776 - database.db_manager - INFO - Задание сохранено для студента ++MwBzXP4rVKzN0tTzKcN0+qoSDfRcXpJm1nYq7jR8wA=, score=0.3333333333333333
+2026-04-30 17:21:02,795 - database.db_manager - INFO - Профиль обновлен для студента ++MwBzXP4rVKzN0tTzKcN0+qoSDfRcXpJm1nYq7jR8wA=: proficient, score=0.81
+2026-04-30 17:21:23,659 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:27:25,505 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 17:38:15,670 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 17:50:31,882 - generator.task_generator - INFO - ✅ YandexGPT настроен, модель: yandexgpt
+2026-04-30 18:37:41,700 - auth.auth_manager - INFO - Успешный вход пользователя: sergeysmirnov
+2026-04-30 18:39:15,911 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 19:04:48,771 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 19:14:52,696 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 20:12:12,390 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-04-30 20:12:12,827 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 20:13:35,458 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=0.0
+2026-04-30 20:13:35,476 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: developing, score=0.66
+2026-04-30 20:13:53,748 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-04-30 20:14:42,109 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-04-30 20:16:57,839 - auth.auth_manager - INFO - Успешный вход пользователя: admin
+2026-04-30 20:18:32,051 - database.db_manager - INFO - Пользователь elizavetakurganova добавлен
+2026-04-30 20:19:17,062 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-03 14:34:06,251 - auth.auth_manager - INFO - Успешный вход пользователя: admin
+2026-05-03 14:34:15,501 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-05-03 14:34:15,944 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-03 14:34:24,052 - auth.auth_manager - INFO - Успешный вход пользователя: admin
+2026-05-03 14:34:48,934 - auth.auth_manager - INFO - Успешный вход пользователя: admin2
+2026-05-03 15:34:41,930 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-03 15:34:51,323 - generator.task_generator - ERROR - ❌ Ошибка генерации: API Error 403: {"error":{"grpcCode":7,"httpCode":403,"message":"Permission to [resource-manager.folder b1glbr4k5p17puhpmi4e, resource-manager.cloud b1gbddtbj36va91jdne0, organization-manager.organization bpfqba3g142npe200v2g] denied","httpStatus":"Forbidden","details":[]}}
+2026-05-03 15:35:37,550 - generator.task_generator - ERROR - ❌ Ошибка генерации: API Error 403: {"error":{"grpcCode":7,"httpCode":403,"message":"Permission to [resource-manager.folder b1glbr4k5p17puhpmi4e, resource-manager.cloud b1gbddtbj36va91jdne0, organization-manager.organization bpfqba3g142npe200v2g] denied","httpStatus":"Forbidden","details":[]}}
+2026-05-03 15:39:28,555 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-03 15:40:06,047 - generator.task_generator - ERROR - ❌ Ошибка генерации: API Error 403: {"error":{"grpcCode":7,"httpCode":403,"message":"Permission to [resource-manager.folder b1glbr4k5p17puhpmi4e, resource-manager.cloud b1gbddtbj36va91jdne0, organization-manager.organization bpfqba3g142npe200v2g] denied","httpStatus":"Forbidden","details":[]}}
+2026-05-03 15:41:40,746 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-03 15:42:08,958 - generator.task_generator - ERROR - ❌ Ошибка генерации: API Error 403: {"error":{"grpcCode":7,"httpCode":403,"message":"Permission to [resource-manager.folder b1glbr4k5p17puhpmi4e, resource-manager.cloud b1gbddtbj36va91jdne0, organization-manager.organization bpfqba3g142npe200v2g] denied","httpStatus":"Forbidden","details":[]}}
+2026-05-03 15:48:10,978 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-05-03 15:48:11,494 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-03 15:49:20,744 - database.db_manager - INFO - Задание сохранено для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=, score=1.0
+2026-05-03 15:49:20,762 - database.db_manager - INFO - Профиль обновлен для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=: proficient, score=0.74
+2026-05-03 15:49:48,813 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-03 15:50:30,989 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-03 15:50:46,290 - auth.auth_manager - INFO - Успешный вход пользователя: admin2
+2026-05-03 15:51:22,812 - auth.auth_manager - INFO - Успешный вход пользователя: sergeysmirnov
+2026-05-03 15:52:48,691 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-03 15:53:16,569 - auth.auth_manager - INFO - Успешный вход пользователя: sergeysmirnov
+2026-05-05 11:54:51,095 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-05-05 11:54:51,613 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 11:55:41,270 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 11:55:44,485 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 11:55:46,446 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 11:55:56,460 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-05-05 11:55:56,924 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 12:01:42,227 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 12:01:54,764 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 12:25:33,098 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-05 12:41:10,673 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-05 12:45:24,073 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-05 12:45:25,951 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 12:45:45,665 - generator.task_generator - INFO - ✅ YandexGPT настроен, модель: yandexgpt
+2026-05-05 12:59:44,841 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-05-05 12:59:45,020 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 12:59:52,917 - auth.auth_manager - INFO - Успешный вход пользователя: petrsidorov
+2026-05-05 12:59:53,091 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 12:59:54,846 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 13:00:02,621 - generator.task_generator - INFO - ✅ YandexGPT настроен, модель: yandexgpt
+2026-05-05 13:00:17,835 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 13:00:48,385 - database.db_manager - INFO - Задание сохранено для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=, score=1.0
+2026-05-05 13:00:48,403 - database.db_manager - INFO - Профиль обновлен для студента ++KRUQaY5gFsmV7egJVOWqbqbTth/oJBB7yX1HvCSL4=: proficient, score=0.77
+2026-05-05 13:04:54,817 - auth.auth_manager - INFO - Успешный вход пользователя: elenakozlova
+2026-05-05 13:04:55,001 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 13:08:32,844 - auth.auth_manager - INFO - Успешный вход пользователя: elenakozlova
+2026-05-05 13:08:33,047 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 13:08:51,173 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-05 13:15:08,335 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 13:16:10,046 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 13:20:58,601 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-05-05 13:20:58,778 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-05 13:25:14,446 - database.db_manager - INFO - Задание сохранено для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=, score=0.6666666666666666
+2026-05-05 13:25:14,458 - database.db_manager - INFO - Профиль обновлен для студента ++G4miLfs4WDYhc1Ga+3G+/oqSniQQvLBm7SBQ3V39Y=: developing, score=0.66
+2026-05-05 15:01:01,435 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
+2026-05-05 15:02:35,356 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
+2026-05-05 15:04:42,616 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
+2026-05-05 15:08:34,859 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
+2026-05-05 15:08:58,614 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
+2026-05-05 15:11:30,836 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
+2026-05-05 15:14:04,696 - auth.auth_manager - INFO - Успешный вход пользователя: org_user

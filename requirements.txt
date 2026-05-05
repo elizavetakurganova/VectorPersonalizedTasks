@@ -1,0 +1,15 @@
+streamlit
+flask
+werkzeug
+psycopg2-binary
+sqlalchemy
+python-dotenv
+requests
+pandas
+numpy
+scikit-learn
+pydantic
+cryptography
+matplotlib
+requests>=2.31.0
+python-dotenv>=1.0.0
