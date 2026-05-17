@@ -10,6 +10,8 @@ numpy
 scikit-learn
 pydantic
 cryptography
+rank_bm25
 matplotlib
+sentence_transformers
 requests>=2.31.0
 python-dotenv>=1.0.0

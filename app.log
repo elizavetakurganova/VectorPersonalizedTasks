@@ -202,3 +202,23 @@
 2026-05-05 15:08:58,614 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
 2026-05-05 15:11:30,836 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
 2026-05-05 15:14:04,696 - auth.auth_manager - INFO - Успешный вход пользователя: org_user
+2026-05-09 00:43:28,359 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-09 00:44:27,235 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-09 00:48:22,507 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-09 00:52:43,174 - generator.task_generator - INFO - ✅ YandexGPT настроен, модель: yandexgpt
+2026-05-09 00:58:39,347 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-09 01:12:47,592 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-10 23:47:32,164 - auth.auth_manager - INFO - Успешный вход пользователя: elenakozlova
+2026-05-10 23:47:32,473 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-10 23:47:35,581 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-10 23:47:48,604 - generator.task_generator - INFO - ✅ YandexGPT настроен, модель: yandexgpt
+2026-05-10 23:51:56,891 - database.db_manager - INFO - Задание сохранено для студента ++MwBzXP4rVKzN0tTzKcN0+qoSDfRcXpJm1nYq7jR8wA=, score=0.3333333333333333
+2026-05-10 23:51:56,908 - database.db_manager - INFO - Профиль обновлен для студента ++MwBzXP4rVKzN0tTzKcN0+qoSDfRcXpJm1nYq7jR8wA=: proficient, score=0.73
+2026-05-14 23:51:34,921 - auth.auth_manager - INFO - Успешный вход пользователя: student
+2026-05-14 23:51:35,177 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-14 23:51:37,710 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-14 23:51:39,535 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-14 23:52:16,354 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
+2026-05-17 19:23:06,517 - auth.auth_manager - INFO - Успешный вход пользователя: admin
+2026-05-17 19:23:17,009 - auth.auth_manager - INFO - Успешный вход пользователя: teacher
+2026-05-17 19:23:19,293 - tracker.progress_tracker - INFO - ✅ ProgressTracker связан с PostgreSQL
